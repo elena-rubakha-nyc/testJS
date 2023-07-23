@@ -1,0 +1,22 @@
+{
+  "name": "jest-homework",
+  "version": "1.0.0",
+  "description": "jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elena-rubakha-nyc/testJS.git"
+  },
+  "author": "elena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elena-rubakha-nyc/testJS/issues"
+  },
+  "homepage": "https://github.com/elena-rubakha-nyc/testJS#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
